@@ -1,0 +1,21 @@
+#body {
+    background-color:darkslategrey
+}
+
+#app {
+    color: cornsilk;
+    font-style: oblique;
+}
+
+#chat_image {
+    width:100px;
+    height: 100px;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+h4 {
+    color: rgb(148, 217, 28);
+}
